@@ -37,7 +37,7 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-B43824?style=for-the-badge&logo=git&logoColor=white) |
 | **Code Editor** | ![VS Code](https://img.shields.io/badge/VS_Code-0066AD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9IndoaXRlIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05NiAxIDM3IDUwIDE0IDMyIDEgNDNsMjIgMjFMMSA4NWwxMyAxMiAyMy0xOCA1OSA0OCAzMS0xNVYxNkw5NiAxWm0wIDMydjYyTDU3IDY0IDk2IDMzWiIvPjwvc3ZnPg%3D%3D) |
 | **Operating System** | ![Windows](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMCAwaDU4djU4SDB6bTcwIDBoNTh2NThINzB6TTAgNzBoNTh2NThIMHptNzAgMGg1OHY1OEg3MHoiLz48L3N2Zz4%3D) |
-| **Web3** | ![Solidity · Learning](https://img.shields.io/badge/Solidity-Learning-363636?style=for-the-badge&logo=solidity&logoColor=white) |
+| **Web3** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) |
 
 ---
 
