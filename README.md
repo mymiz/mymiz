@@ -6,8 +6,8 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&amp;weight=600&amp;size=20&amp;pause=1300&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Building%20backends%20with%20TypeScript%2C%20JavaScript%2C%20and%20Node.js%3BLearning%20Web3%20%E2%80%94%20blockchains%2C%20smart%20contracts%2C%20and%20Solidity">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&amp;weight=600&amp;size=20&amp;pause=1300&amp;color=117747&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Building%20backends%20with%20TypeScript%2C%20JavaScript%2C%20and%20Node.js%3BLearning%20Web3%20%E2%80%94%20blockchains%2C%20smart%20contracts%2C%20and%20Solidity" alt="Building backends with TypeScript, JavaScript, and Node.js. Learning Web3 — blockchains, smart contracts, and Solidity.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&amp;weight=600&amp;size=20&amp;pause=1300&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Building%20backends%20with%20TypeScript%2C%20JavaScript%2C%20and%20Node.js%3BWorking%20with%20Web3%20%E2%80%94%20blockchains%2C%20smart%20contracts%2C%20and%20Solidity">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&amp;weight=600&amp;size=20&amp;pause=1300&amp;color=117747&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=44&amp;lines=Building%20backends%20with%20TypeScript%2C%20JavaScript%2C%20and%20Node.js%3BWorking%20with%20Web3%20%E2%80%94%20blockchains%2C%20smart%20contracts%2C%20and%20Solidity" alt="Building backends with TypeScript, JavaScript, and Node.js. Working with Web3 — blockchains, smart contracts, and Solidity.">
 </picture>
 <br>
 <a href="https://github.com/mymiz"><img src="https://img.shields.io/badge/GitHub-mymiz-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
@@ -22,7 +22,7 @@
 
 Hi, I’m Dmitriy! I’m a 19yo college student from Russia. I work primarily on **backend systems**.
 
-**Main stack:** JavaScript, TypeScript, Node.js · **Exploring:** Solidity, smart contracts, Web3, and blockchain
+**Main stack:** JavaScript, TypeScript, Node.js, Solidity, smart contracts, Web3, and blockchain
 
 Always open to collaborating on open-source, IoT, backend, and other cool projects!
 
@@ -58,10 +58,7 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 | Focus Area | What I Build |
 | --- | --- |
 | **Backend Development** | Building backends for web applications, REST APIs, bots, and integrations with third-party services using TypeScript, JavaScript, and Node.js. |
-
-## 📚 Currently Learning
-
-- **Web3** — blockchain fundamentals, smart contracts, and Solidity.
+| **Web3** | Blockchain development and smart contracts with Solidity. |
 
 ---
 
