@@ -45,7 +45,8 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 ## 📈 Skills & Languages
 
 **Technical Skills**
-- **Intermediate:** JavaScript, TypeScript, and Node.js
+- **Backend Development (Intermediate)** — Building REST APIs, bots, and service integrations with JavaScript, TypeScript, and Node.js.
+- **Web3 Development** — Building blockchain applications and tools for working with on-chain data.
 
 **Spoken Languages**
 - **Russian:** Native
