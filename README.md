@@ -65,6 +65,7 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 ## 🚀 Featured Projects
 
 - **Blockchain Explorer** — A web app for browsing on-chain activity.
+- [**NFT-Polygon**](https://github.com/mymiz/NFT-Polygon) — An ERC-721 NFT project on Polygon with minting and IPFS metadata, built with Solidity, TypeScript, and Hardhat.
 
 ---
 
