@@ -34,7 +34,8 @@ Always open to collaborating on open-source, IoT, backend, and other cool projec
 | --- | --- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-276738?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-B43824?style=for-the-badge&logo=git&logoColor=white) |
+| **Package Manager** | ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-B43824?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Code Editor** | ![VS Code](https://img.shields.io/badge/VS_Code-0066AD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9IndoaXRlIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05NiAxIDM3IDUwIDE0IDMyIDEgNDNsMjIgMjFMMSA4NWwxMyAxMiAyMy0xOCA1OSA0OCAzMS0xNVYxNkw5NiAxWm0wIDMydjYyTDU3IDY0IDk2IDMzWiIvPjwvc3ZnPg%3D%3D) |
 | **Operating System** | ![Windows](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMCAwaDU4djU4SDB6bTcwIDBoNTh2NThINzB6TTAgNzBoNTh2NThIMHptNzAgMGg1OHY1OEg3MHoiLz48L3N2Zz4%3D) |
 | **Web3** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge) |
